@@ -1,2 +1,5 @@
 # hexchatdevbot
-provides basic urls for #issues and commits
+
+provides public urls for #issues and commits
+
+works with hexchat client
